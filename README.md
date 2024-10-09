@@ -2,7 +2,7 @@
   <img src="score.png" alt="System Overview" width="350">
 </p>
 
-**Note**: for more detailed information and full system understanding check the [presentation](Presentation.pptx)
+**Note**: for more detailed information and full system understanding check the [presentation](Presentation.zip)
 
 ---
 
@@ -60,7 +60,7 @@ The idea was to explore the integration of AI technologies in the retail environ
   <img src="application_visualization_output\employee_innformation_screen_light_theme.png" alt="System Overview 1" width="300">
 </p>
 
- **Note**: check full demo for both [mobile](application_visualization_output/application_overview_mobile.zip) and [desktop](application_visualization_output/application_overview_desktop.zip), also the [presentation](Presentation.pptx) for each screen usage and check [screen folder](application_visualization_output) to fully visualize all screen
+ **Note**: check full demo for both [mobile](application_visualization_output/application_overview_mobile.zip) and [desktop](application_visualization_output/application_overview_desktop.zip), also the [presentation](Presentation.zip) for each screen usage and check [screen folder](application_visualization_output) to fully visualize all screen
 ## Technical Implementation
 - **AI Models**: 
   - **Yolo-v3** (darknet53) for person detection.
