@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="score.png" alt="System Overview" width="350">
+  <img src="https://raw.githubusercontent.com/owl-lilith/Employees-Scoring/refs/heads/main/score.png" alt="System Overview" width="350">
 </p>
 
 **Note**: for more detailed information and full system understanding check the [presentation](Presentation.zip)
