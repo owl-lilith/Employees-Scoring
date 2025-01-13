@@ -9,7 +9,7 @@
 # Employee Evaluation System for Clothing Stores 
 
 ## Overview 
-A point-based system designed to facilitate the supervision, tracking, and evaluation of employees in clothing stores. The system aims to enrich the supervisory experience by integrating innovative and diverse technologies, including AI-based facial recognition.
+End-to-end AI point-based system that incorporates multiple machine learning models and technologies such as real-time employee management, including person detection, predictive analytics, AI-based facial recognition to facilitate the supervision, tracking, and evaluation of employees in clothing stores. The system aims to enrich the supervisory experience.
 
 <p align="center">
   <img src="application_visualization_output\application.png" alt="System Overview" width="490">
